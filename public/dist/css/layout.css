@@ -1,0 +1,89 @@
+
+.fs-icon
+{
+    font-size: 10px;
+    font-weight: bolder;
+    
+}
+.fs-10
+{
+    font-size: 9px;
+}
+.fs-12
+{
+    font-size: 13px;
+    
+}
+
+.yeuthich-ikon, .taikhoang-ikon, .giohang-ikon
+{
+    font-size: 1px;
+    width: 40px;
+    height:40px;
+    border: 1px solid #a5a2a2;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+}
+.bg-vung3, .bg-vung4
+{
+    background-color: #313131;
+    color:white;
+}
+.fa-facebook, .fa-twitter, .fa-youtube, .fa-instagram
+{
+    
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    width: 40px;
+    height:40px;
+    font-size: 20px;
+}
+.brand
+{
+    width: 220px;
+    font-size: 20px;
+}
+.email
+{
+    margin: auto;
+    font-size: 20px;
+}
+.aos
+{
+    color: red;
+}
+.img-size
+{
+    font-size: 10px;
+}
+
+.bg-menu2
+{
+    background-color: #2f6ad8;
+    color:white;
+}
+.color-w
+{
+    color:white;
+}
+.cn
+{
+    font-size: 1px;
+    width: 40px;
+    height:40px;
+    line-height: 40px;
+}
+.vc
+{
+    background-color: #ffff77;    
+}.bh
+{
+    background-color: #64ffc3;    
+}.dt
+{
+    background-color: #78e9ff;    
+}
+
